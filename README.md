@@ -15,6 +15,8 @@ We grouped the 1,139 cities by population:
 
 The correlation plots generated from our results for each of these categories above, as well as for all cities, can be found in [this folder](https://github.com/JimiLab/LocalifyMusicEventData/tree/main/LocalifyMusicEvents-USA-2019/figures).
 
+To see how our dataset was constructed, check out [this notebook](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step0_DataCreation.ipynb). **IMPORTANT**: This notebook scrapes the **LATEST** data from CensusReporter. **Do not run this notebook if you intend to reproduce our data and results.**
+
 We also have a full dataset consisting of 1246 cities with all population sizes, which can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_full.csv).
 
 ## Usage Instructions
@@ -22,9 +24,6 @@ We also have a full dataset consisting of 1246 cities with all population sizes,
 1) Clone this repository: ```git clone https://github.com/JimiLab/LocalifyMusicEventData.git```. 
 
 2) To reproduce our results used in the paper, run the notebook ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb```.
-
-**IMPORTANT note for reproducibility:** Only run ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step0_DataCreation.ipynb``` if you intend to use the **LATEST** data from CensusReporter. Do not run this notebook if you intend to reproduce our data and results. The dataset used in our paper can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv). 
-
 
 ## Demo Poster
 
