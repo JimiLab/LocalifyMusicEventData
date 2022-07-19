@@ -32,6 +32,9 @@ Demo poster presented in NEMISIG 2022 (Newark, NJ):
 
 <img width="1197" alt="Screen Shot 2022-07-19 at 5 53 23 PM" src="https://user-images.githubusercontent.com/19521672/179855100-a532e248-3af1-4fd3-bc7a-a90b04b26783.png">
 
+## Acknowledgements
+
+Doug Turnbull, Tim Clerico, John Hunter, and Emmett Barry all contributed to the Localify.org music event scraper code. This research was supported by NSF grant IIS-1901330/1901168 and NEH grant HAA-280975-21. Finally, we would like to thank the anonymous ISMIR reviewers for their highly constructive feedback.
 
 ## License
 This library is released under the terms of the MIT license. Full details in ```LICENSE``` file.
