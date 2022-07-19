@@ -1,6 +1,6 @@
 # LocalifyMusicEventData
 
-Project repo for the paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). 
+Project repo for our ISMIR 2022 paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). 
 
 
 ## Directions for Usage
@@ -10,13 +10,16 @@ Project repo for the paper [Towards Quantifying the Strength of Music Scenes usi
 2) To reproduce our results used in the paper, run the notebook ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb```.
 
 
+## Structure
+
+
+
+
 ## Demo
 
 Demo poster presented in NEMISIG 2022.
 
 <img width="945" alt="Screen Shot 2022-07-19 at 5 23 44 PM" src="https://user-images.githubusercontent.com/19521672/179851206-93d261b3-2166-45b8-aa00-1dbb0ce2c026.png">
-
-## Structure
 
 
 ## IMPORTANT NOTE FOR REPRODUCIBILITY:
