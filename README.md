@@ -13,7 +13,7 @@ We grouped the 1,139 cities by population:
 - Medium (100K-500K)
 - Large (500K+)
 
-The correlation plots generated from our results for each of these categories above, as well as for all cities, can be found in [this folder](https://github.com/JimiLab/LocalifyMusicEventData/tree/main/LocalifyMusicEvents-USA-2019/figures)
+The correlation plots generated from our results for each of these categories above, as well as for all cities, can be found in [this folder](https://github.com/JimiLab/LocalifyMusicEventData/tree/main/LocalifyMusicEvents-USA-2019/figures).
 
 We also have a full dataset consisting of 1246 cities with all population sizes, which can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_full.csv).
 
