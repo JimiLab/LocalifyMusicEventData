@@ -1,4 +1,5 @@
-# LocalifyMusicEventData
+# LocalifyMusicEventData ![download](https://user-images.githubusercontent.com/19521672/179861720-2f1b089b-fa76-4564-8c6e-a4609e72f3db.png)
+
 
 ```LocalifyMusicEvents-USA-2019``` is the project repo for the paper [**Towards Quantifying the Strength of Music Scenes using Live Event Data**](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). The paper has been accepted by the International Society for Music Information Retrieval (ISMIR) Conference 2022. 
 
