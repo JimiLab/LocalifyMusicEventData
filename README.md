@@ -15,13 +15,6 @@ Project repo for our ISMIR 2022 paper [Towards Quantifying the Strength of Music
 
 
 
-## Demo
-
-Demo poster presented in NEMISIG 2022.
-
-<img width="945" alt="Screen Shot 2022-07-19 at 5 23 44 PM" src="https://user-images.githubusercontent.com/19521672/179851206-93d261b3-2166-45b8-aa00-1dbb0ce2c026.png">
-
-
 ## IMPORTANT NOTE FOR REPRODUCIBILITY:
 
 **Only run ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step0_DataCreation.ipynb``` if you intend to use the LATEST data from CensusReporter.** Do not run this notebook if you intend to reproduce our data and results. The dataset used in our paper can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv). 
