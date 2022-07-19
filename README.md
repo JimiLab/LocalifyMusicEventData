@@ -3,7 +3,7 @@
 Project repo for our ISMIR 2022 paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). 
 
 
-## Directions for Usage
+## Usage Instructions
 
 1) Clone this repository: ```git clone https://github.com/JimiLab/LocalifyMusicEventData.git```. 
 
