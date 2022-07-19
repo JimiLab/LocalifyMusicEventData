@@ -1,6 +1,6 @@
 # LocalifyMusicEventData
 
-This repository is the project page for the paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). 
+Project repo for the paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). 
 
 
 
