@@ -13,7 +13,7 @@ Project repo for our ISMIR 2022 paper [Towards Quantifying the Strength of Music
 ## Structure
 
 
-## Demo 
+## Demo Poster
 
 Demo poster presented in NEMISIG 2022 (Newark, NJ):
 
