@@ -6,9 +6,16 @@ This is the official project repo for the paper [Towards Quantifying the Strengt
 
 The ```LocalifyMusicEvents-USA-2019``` dataset used in our paper contains information for 308,051 music events that took place in 2019 and from 1,139 US cities, all of which have a population of 10K or more. This dataset also contains data for 28 socioeceonomic indicators, ranging from 6 different categories: Transportation, Population, Economics, Age, Education, and Race. We introduce the _Live Event Music Rate (LMER)_ as a one-dimensional heuristic for measuring the liveness of a music scene. LMER is calculated as the total number of events during 2019 listed in the city divided by the city population according to 2019 Census population estimates. This dataset can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv).
 
-We explore the statistical correlations between LMER and the 28 socioeconomic indicators in the notebook [```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb```](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb). 
+We explore the statistical correlations between LMER and the 28 socioeconomic indicators in [this notebook](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb). 
 
-We also have a full dataset consisting of all population sizes, which can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_full.csv).
+We grouped the 1,139 cities by population: 
+- Small (10K-100K)
+- Medium (100K-500K)
+- Large (500K+)
+
+The correlation plots generated from our results for each of these categories above, as well as for all cities, can be found in [this folder](https://github.com/JimiLab/LocalifyMusicEventData/tree/main/LocalifyMusicEvents-USA-2019/figures)
+
+We also have a full dataset consisting of 1246 cities with all population sizes, which can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_full.csv).
 
 ## Usage Instructions
 
