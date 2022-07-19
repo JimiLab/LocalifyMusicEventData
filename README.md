@@ -2,6 +2,11 @@
 
 This is the official project repo for the paper [Towards Quantifying the Strength of Music Scenes using Live Event Data](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). The paper has been accepted by the International Society for Music Information Retrieval (ISMIR) Conference 2022. 
 
+## About this Dataset
+
+The ```LocalifyMusicEvents-USA-2019``` dataset used in our paper contains information for 308,051 music events that took place in 2019 and from 1,139 US cities, all of which have a population of 10K or more. This dataset can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv). 
+
+We also have a full dataset consisting of all population sizes, which can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_full.csv).
 
 ## Usage Instructions
 
@@ -12,8 +17,6 @@ This is the official project repo for the paper [Towards Quantifying the Strengt
 ## IMPORTANT NOTE FOR REPRODUCIBILITY:
 
 **Only run ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step0_DataCreation.ipynb``` if you intend to use the LATEST data from CensusReporter.** Do not run this notebook if you intend to reproduce our data and results. The dataset used in our paper can be found [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv). 
-
-## Structure
 
 
 ## Demo Poster
