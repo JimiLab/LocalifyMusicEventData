@@ -2,6 +2,14 @@
 
 ```LocalifyMusicEvents-USA-2019``` is the project repo for the paper [**Towards Quantifying the Strength of Music Scenes using Live Event Data**](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). The paper has been accepted by the International Society for Music Information Retrieval (ISMIR) Conference 2022. 
 
+@INPROCEEDINGS{ISMIR17Author:01,
+        AUTHOR = {A. Author and B. Author},
+        TITLE = {Towards Quantifying the Strength of Music Scenes using Live Event Data},
+        BOOKTITLE = {Proc. of the 23rd International Society for Music Information Retrieval Conference},
+        YEAR = {2022},
+        ADDRESS = {Bengaluru, India}
+        }
+
 ## About our Data
 
 The ```LocalifyMusicEvents-USA-2019``` dataset used in our paper contains information for 308,051 music events that took place in 2019 and from 1,139 US cities, all of which have a population of 10K or more. This dataset consists of data for 28 socioeceonomic indicators, ranging from 6 different categories: Transportation, Population, Economics, Age, Education, and Race. We also introduce the _Live Event Music Rate (LMER)_, a one-dimensional heuristic for measuring the liveness of a music scene, in this dataset. LMER is calculated as the total number of events during 2019 listed in the city divided by the city population according to 2019 Census population estimates. To use this dataset, download it [here](https://github.com/JimiLab/LocalifyMusicEventData/blob/main/LocalifyMusicEvents-USA-2019/data/LocalifyMusicEvents-USA-2019_paper.csv).
