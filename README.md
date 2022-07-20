@@ -33,7 +33,7 @@ We also have a full dataset consisting of 1246 cities with all population sizes,
 
 1) Clone this repository: ```git clone https://github.com/JimiLab/LocalifyMusicEventData.git```. 
 
-2) Download the SQL database file from [here](). Put this SQL file in the folder ``LocalifyMusicEvents-USA-2019/data``. 
+2) Download the SQL database file from [here](https://drive.google.com/file/d/1pwsQga29rEtbmTnym025bkx0bGAwOwdN/view?usp=sharing). Put this SQL file in the folder ``LocalifyMusicEvents-USA-2019/data``. 
 
 3) To reproduce our results used in the paper, run the notebook ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb```.
 
