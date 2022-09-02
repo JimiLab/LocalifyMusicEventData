@@ -1,6 +1,6 @@
 # LocalifyMusicEventData 
 
-```LocalifyMusicEvents-USA-2019``` is the project repo for the paper [**Towards Quantifying the Strength of Music Scenes using Live Event Data**](https://drive.google.com/file/d/18UTmw81ZC8x4O-ZRC5MFIMVO32Dk0CAV/view?usp=sharing). The paper has been accepted by the [International Society for Music Information Retrieval (ISMIR) Conference 2022](https://ismir2022.ismir.net/). 
+```LocalifyMusicEvents-USA-2019``` is the project repo for the paper [**Towards Quantifying the Strength of Music Scenes using Live Event Data**](https://drive.google.com/file/d/1g6ezzPUIj-f-XWHNJ9R3SMIUobDHd_uZ/view?usp=sharing). The paper has been accepted by the [International Society for Music Information Retrieval (ISMIR) Conference 2022](https://ismir2022.ismir.net/). 
 
 <pre>
 @INPROCEEDINGS{zhou2022musicevent,
