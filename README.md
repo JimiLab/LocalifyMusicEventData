@@ -37,11 +37,11 @@ We also have a full dataset consisting of 1,246 cities with all population sizes
 
 3) To reproduce our results used in the paper, run the notebook ```LocalifyMusicEvents-USA-2019/LocalifyMusicEvents-USA-2019_Step1_StatistcalAnalysis.ipynb```.
 
-## Demo Poster
+## Poster
 
-Demo poster presented in NEMISIG 2022 (Newark, NJ):
+<!-- Demo poster presented in NEMISIG 2022 (Newark, NJ):
 
-<img width="1197" alt="Screen Shot 2022-07-19 at 5 53 23 PM" src="https://user-images.githubusercontent.com/19521672/179855100-a532e248-3af1-4fd3-bc7a-a90b04b26783.png">
+<img width="1197" alt="Screen Shot 2022-07-19 at 5 53 23 PM" src="https://user-images.githubusercontent.com/19521672/179855100-a532e248-3af1-4fd3-bc7a-a90b04b26783.png"> -->
 
 Poster presented in ISMIR 2022 (Bengaluru, India):
 
